@@ -1,0 +1,11 @@
+entry_time,symbol,entry_type,confidence_score,gamma_zone_color,gamma_zone_level,candle_position,session_time,strike_level_count,entry_price,exit_price,model_decision,executed
+2025-07-20 03:38:19,QQQ,call,89.09,أخضر,متوسط,فوق,opening,3,436.88,438.21999999999997,1,True
+2025-07-20 03:53:19,SPY,call,73.06,أخضر,متوسط,فوق,closing,3,459.7,459.4,1,True
+2025-07-20 04:08:19,SPY,call,73.66,أخضر,قمة,فوق,closing,1,483.99,485.05,1,True
+2025-07-20 04:23:19,QQQ,put,75.7,أحمر,قاع,تحت,opening,1,465.34,464.34999999999997,1,True
+2025-07-20 04:38:19,SPX,put,86.46,أحمر,متوسط,تحت,mid,4,448.36,444.12,1,True
+2025-07-20 04:53:19,QQQ,put,77.69,أحمر,قاع,تحت,closing,3,486.21,487.27,1,True
+2025-07-20 05:08:19,QQQ,put,74.22,أحمر,قمة,تحت,opening,3,455.11,459.42,1,True
+2025-07-20 05:23:19,SPX,call,75.12,أخضر,قاع,فوق,closing,4,470.53,470.04999999999995,1,True
+2025-07-20 05:38:19,QQQ,call,76.65,أخضر,متوسط,فوق,opening,2,483.49,481.21000000000004,1,True
+2025-07-20 05:53:19,QQQ,put,88.14,أحمر,قمة,تحت,closing,3,496.53,502.84999999999997,1,True
